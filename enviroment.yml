@@ -1,9 +1,5 @@
 name: EasyLogDataToLineChart
 channels:
   - conda-forge
-
 dependencies:
-  - python
-  - pandas
-  - pip:
-    - pandas
+  - python=3
