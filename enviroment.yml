@@ -1,4 +1,4 @@
-name: BjornJ
+name: EasyLogDataToLineChart
 
 dependencies:
 - python=3
