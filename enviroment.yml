@@ -1,6 +1,7 @@
 name: BjornJ
 
 dependencies:
+- python=3
 - pandas
 - numpy
 - matplotlib
